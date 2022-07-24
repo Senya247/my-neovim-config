@@ -1,7 +1,7 @@
 # my-neovim-config
 My neovim config files
 
-[How it looks](preview.png)
+![How it looks](preview.png)
 
 Configs for each plugin are stored seperately in the plugin_conf directory, which are sourced by init.vim at the end.
 
